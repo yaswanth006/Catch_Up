@@ -1,0 +1,13 @@
+c:\users\apple\documents\visual studio 2012\Projects\mini Project\mini Project\bin\Debug\mini Project.exe.config
+c:\users\apple\documents\visual studio 2012\Projects\mini Project\mini Project\bin\Debug\mini Project.exe
+c:\users\apple\documents\visual studio 2012\Projects\mini Project\mini Project\bin\Debug\mini Project.pdb
+c:\users\apple\documents\visual studio 2012\Projects\mini Project\mini Project\obj\Debug\mini Project.csprojResolveAssemblyReference.cache
+c:\users\apple\documents\visual studio 2012\Projects\mini Project\mini Project\obj\Debug\mini_Project.Form1.resources
+c:\users\apple\documents\visual studio 2012\Projects\mini Project\mini Project\obj\Debug\mini_Project.Properties.Resources.resources
+c:\users\apple\documents\visual studio 2012\Projects\mini Project\mini Project\obj\Debug\mini Project.csproj.GenerateResource.Cache
+c:\users\apple\documents\visual studio 2012\Projects\mini Project\mini Project\obj\Debug\mini Project.exe
+c:\users\apple\documents\visual studio 2012\Projects\mini Project\mini Project\obj\Debug\mini Project.pdb
+c:\users\apple\documents\visual studio 2012\Projects\mini Project\mini Project\obj\Debug\mini_Project.Selection.resources
+c:\users\apple\documents\visual studio 2012\Projects\mini Project\mini Project\obj\Debug\mini_Project.SinguPage.resources
+c:\users\apple\documents\visual studio 2012\Projects\mini Project\mini Project\obj\Debug\mini_Project.Movie.resources
+c:\users\apple\documents\visual studio 2012\Projects\mini Project\mini Project\obj\Debug\mini_Project.MSearch.resources
